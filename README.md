@@ -1,2 +1,5 @@
 # hello-world
-Getting into GitHub
+
+Hi all,
+I am nasty and naughty. I am here to learn more,
+Thanks.
